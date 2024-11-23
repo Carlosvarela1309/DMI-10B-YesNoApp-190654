@@ -24,8 +24,9 @@ Realizar una aplicación en Flutter para Dispositivos Móviles, parte de la Unid
 ## Estructura de las carpetas 
 <br>
 
+![captura_fifas](https://github.com/user-attachments/assets/412ad230-9af5-44d8-83da-da666caf7d13)
 
-<img width="725" alt="captura_Suri" src="https://github.com/user-attachments/assets/2d07d327-ac3f-4b13-95b2-d4635831b423">
+
 
 <br>
 <h3> Practica 21 </h3>
@@ -56,5 +57,6 @@ Realizar una aplicación en Flutter para Dispositivos Móviles, parte de la Unid
 
 ## Resultados
 <br>
+![WhatsApp Image 2024-11-23 at 2 38 39 PM](https://github.com/user-attachments/assets/c13b6766-95ce-4de5-9eef-628b141800c7)
 
-![campura2_suri](https://github.com/user-attachments/assets/f0e21dd8-b7b4-41fc-83dd-00e94474fad7)
+
