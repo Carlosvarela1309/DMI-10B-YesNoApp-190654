@@ -57,6 +57,7 @@ Realizar una aplicación en Flutter para Dispositivos Móviles, parte de la Unid
 
 ## Resultados
 <br>
-![WhatsApp Image 2024-11-23 at 2 38 39 PM](https://github.com/user-attachments/assets/c13b6766-95ce-4de5-9eef-628b141800c7)
 
 
+
+![captura_fifas2](https://github.com/user-attachments/assets/02bc6dca-e460-4848-9f23-9e6c1c40afba)
